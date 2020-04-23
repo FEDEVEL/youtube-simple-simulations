@@ -1,0 +1,9 @@
+PinList size is 6
+Found 6 pins, 0 pins overlapped
+
+1	J1.1	Found,growthperc=0,findBufferLength=78,preferential=1, layerId=6, stackId=1, position= (0.01,0.05,0.000337315), inputPosition= (0.01,0.05,0.000354591), area= 9.34192e-07
+2	J1.2	Found,growthperc=0,findBufferLength=60,preferential=1, layerId=6, stackId=1, position= (0.01,0.04746,0.000337315), inputPosition= (0.01,0.04746,0.000354591), area= 9.34192e-07
+3	J2.1	Found,growthperc=0,findBufferLength=86,preferential=1, layerId=6, stackId=1, position= (0.05,0.05,0.000337315), inputPosition= (0.05,0.05,0.000354591), area= 9.34863e-07
+4	J2.2	Found,growthperc=0,findBufferLength=55,preferential=1, layerId=6, stackId=1, position= (0.05,0.04746,0.000337315), inputPosition= (0.05,0.04746,0.000354591), area= 9.34778e-07
+5	J3.1	Found,growthperc=0,findBufferLength=86,preferential=1, layerId=6, stackId=1, position= (0.09,0.05,0.000337315), inputPosition= (0.09,0.05,0.000354591), area= 9.34862e-07
+6	J3.2	Found,growthperc=0,findBufferLength=55,preferential=1, layerId=6, stackId=1, position= (0.09,0.04746,0.000337315), inputPosition= (0.09,0.04746,0.000354591), area= 9.34773e-07

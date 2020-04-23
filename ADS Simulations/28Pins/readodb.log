@@ -1,0 +1,21 @@
+Wed Apr 22 13:02:30 2020
+Reading ODB file "E:/Github/youtube-simple-simulations/ADS Simulations/ODB/28Pins_Project_V1I1_PCB.zip".
+
+Warnings occurred during ODB file load:
+
+File not found at : E:/Github/youtube-simple-simulations/ADS Simulations/ODB\28Pins_Project_V1I1_PCB\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : E:/Github/youtube-simple-simulations/ADS Simulations/ODB\28Pins_Project_V1I1_PCB\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : E:/Github/youtube-simple-simulations/ADS Simulations/ODB\28Pins_Project_V1I1_PCB\odb\steps\pcb\layers\comp_+_bot\components
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file '28Pins_Project_V1I1_PCB.stack' and materials file 'materials.matdb'
+are created at E:/Github/youtube-simple-simulations/ADS Simulations/28Pins/28Pins_Project_V1I1_PCB_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<AdsTranslatorSetupFile Version="1.0">
+  <Import>
+        <Layers>
+        </Layers>
+        <Nets>
+        </Nets>
+        <Components>
+        </Components>
+        <Flatten>0</Flatten>
+        <ImportNegativeLayerAsSlotLayer>0</ImportNegativeLayerAsSlotLayer>
+        <CreateComponentsInFolder>1</CreateComponentsInFolder>
+  </Import>
+  <Export>
+    <XOffset>0</XOffset>
+    <YOffset>0</YOffset>
+    <XScale>1</XScale>
+    <YScale>1</YScale>
+    <OpenLineWidth>0.025</OpenLineWidth>
+    <Flatten>1</Flatten>
+    <Unit>inch</Unit>
+    <AutoMerge>0</AutoMerge>
+    <PathsAsPolygons>1</PathsAsPolygons>
+    <HoleFormat>Holes As Cutlines</HoleFormat>
+    <Layers />
+  </Export>
+</AdsTranslatorSetupFile>

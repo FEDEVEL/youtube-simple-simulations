@@ -1,0 +1,3431 @@
+[Design]
+Version=1.0
+HierarchyMode=0
+ChannelRoomNamingStyle=0
+ReleasesFolder=
+ChannelDesignatorFormatString=$Component_$RoomName
+ChannelRoomLevelSeperator=_
+OpenOutputs=1
+ArchiveProject=0
+TimestampOutput=0
+SeparateFolders=0
+TemplateLocationPath=
+PinSwapBy_Netlabel=1
+PinSwapBy_Pin=1
+AllowPortNetNames=0
+AllowSheetEntryNetNames=1
+AppendSheetNumberToLocalNets=0
+NetlistSinglePinNets=0
+DefaultConfiguration=Sources
+UserID=0xFFFFFFFF
+DefaultPcbProtel=1
+DefaultPcbPcad=0
+ReorderDocumentsOnCompile=1
+NameNetsHierarchically=0
+PowerPortNamesTakePriority=0
+PushECOToAnnotationFile=1
+DItemRevisionGUID=
+ReportSuppressedErrorsInMessages=0
+FSMCodingStyle=eFMSDropDownList_OneProcess
+FSMEncodingStyle=eFMSDropDownList_OneHot
+OutputPath=
+LogFolderPath=
+ManagedProjectGUID=
+IncludeDesignInRelease=0
+
+[Preferences]
+PrefsVaultGUID=
+PrefsRevisionGUID=
+
+[Document1]
+DocumentPath=Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=0
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=LGWBDMOT
+
+[Document2]
+DocumentPath=PCB01.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YWVYRTMY
+
+[Document3]
+DocumentPath=PCB02.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SXOCDBBT
+
+[Document4]
+DocumentPath=PCB03.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCPHIDJS
+
+[Document5]
+DocumentPath=PCB04.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CFQMLAVD
+
+[Document6]
+DocumentPath=PCB05.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PGYJMAVJ
+
+[Document7]
+DocumentPath=PCB06.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GRPDIWCX
+
+[Document8]
+DocumentPath=PCB07.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SIKGICJR
+
+[Document9]
+DocumentPath=PCB08.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FHJUGYCM
+
+[Document10]
+DocumentPath=PCB09.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SIKGICJR
+
+[Document11]
+DocumentPath=PCB10.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PEPFWLNW
+
+[Document12]
+DocumentPath=PCB11.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TASSAWNV
+
+[Document13]
+DocumentPath=PCB12.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VRXTHHXR
+
+[Document14]
+DocumentPath=PCB13.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IJBMYLFH
+
+[Document15]
+DocumentPath=PCB14.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CRSTMOEP
+
+[Document16]
+DocumentPath=PCB15.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SWWUAQBD
+
+[Document17]
+DocumentPath=PCB16.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ONCPLMXR
+
+[Document18]
+DocumentPath=PCB17.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JAHMSWQV
+
+[Document19]
+DocumentPath=PCB18.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UFOBCVKG
+
+[Document20]
+DocumentPath=Schlib.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SCUPTJXJ
+
+[Document21]
+DocumentPath=PcbLib.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=VCWLGMFT
+
+[Document22]
+DocumentPath=Generate ODB.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument19]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\comp_+_top\components
+DItemRevisionGUID=
+
+[GeneratedDocument20]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\eda\data
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument41]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument42]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument43]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument44]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument45]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument46]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument47]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument48]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument49]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument50]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument51]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument76]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument77]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument78]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument79]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument80]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument81]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument82]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument83]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument84]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument85]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument86]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument87]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument88]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument89]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument90]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument91]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument92]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument93]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument94]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument95]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument96]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument97]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument98]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument99]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument100]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument101]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument102]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument103]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument104]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument105]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument109]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument113]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument153]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument154]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument155]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument156]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument157]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument158]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument159]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument160]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument161]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument162]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument163]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument164]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument165]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument166]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument167]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument168]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument169]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument170]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument171]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument172]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument173]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument174]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument175]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument176]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument177]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument178]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument179]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument180]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument181]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument182]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument183]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument184]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument185]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument186]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument187]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument188]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument189]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument190]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument191]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument192]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument193]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument194]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument195]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument196]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument197]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument198]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument199]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument200]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument201]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument202]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument203]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument204]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument205]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument206]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument207]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument208]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument209]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument210]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument211]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument212]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument213]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument214]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument215]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument216]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument217]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument218]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument219]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument220]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument221]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument222]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument223]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument224]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument225]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument226]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument227]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument228]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument229]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument230]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument231]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument232]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument233]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument234]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument235]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument236]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument237]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument238]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument239]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument240]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument241]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument242]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument243]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument244]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument245]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument246]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument247]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument248]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument249]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument250]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument251]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument252]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument253]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument254]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument255]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument256]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument257]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument258]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument259]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument260]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument261]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument262]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument263]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument264]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument265]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument266]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument267]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument268]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument269]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument270]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument271]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument272]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument273]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument274]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument275]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument276]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument277]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument278]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument279]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument280]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument281]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument282]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument283]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument284]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument285]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument286]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument287]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument288]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument289]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument290]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument291]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument292]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument293]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument294]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument295]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument296]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument297]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument298]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument299]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument300]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument301]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument302]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument303]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument304]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument305]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument306]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument307]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument308]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument309]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument310]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument311]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument312]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument313]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument314]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument315]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument316]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument317]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument318]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument319]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument320]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument321]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument322]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument323]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument324]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument325]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument326]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument327]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument328]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument329]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument330]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument331]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument332]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument333]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument334]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument335]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument336]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument337]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument338]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument339]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument340]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument341]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument342]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument343]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument344]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument345]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument346]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument347]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument348]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument349]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument350]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument351]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument352]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument353]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument354]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument355]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument356]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument357]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument358]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument359]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument360]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument361]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument362]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument363]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\board\features
+DItemRevisionGUID=
+
+[GeneratedDocument364]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\bottom_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument365]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\bottom_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument366]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\bottom_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument367]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\bottom_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument368]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\comp_+_top\features
+DItemRevisionGUID=
+
+[GeneratedDocument369]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\dielectric_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument370]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\drill\features
+DItemRevisionGUID=
+
+[GeneratedDocument371]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\drill_drawing\features
+DItemRevisionGUID=
+
+[GeneratedDocument372]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\drill_guide\features
+DItemRevisionGUID=
+
+[GeneratedDocument373]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\keep-out_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument374]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\mechanical_1\features
+DItemRevisionGUID=
+
+[GeneratedDocument375]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\mechanical_29\features
+DItemRevisionGUID=
+
+[GeneratedDocument376]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\multi-layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument377]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\top_layer\features
+DItemRevisionGUID=
+
+[GeneratedDocument378]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\top_overlay\features
+DItemRevisionGUID=
+
+[GeneratedDocument379]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\top_paste\features
+DItemRevisionGUID=
+
+[GeneratedDocument380]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\top_solder\features
+DItemRevisionGUID=
+
+[GeneratedDocument381]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument382]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument383]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument384]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument385]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument386]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument387]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument388]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument389]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument390]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument391]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument392]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument393]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument394]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument395]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument396]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument397]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument398]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument399]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\matrix\matrix
+DItemRevisionGUID=
+
+[GeneratedDocument400]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument401]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument402]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument403]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument404]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument405]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument406]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument407]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument408]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument409]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument410]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument411]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument412]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument413]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument414]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument415]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument416]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument417]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument418]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\netlists\cadnet\netlist
+DItemRevisionGUID=
+
+[GeneratedDocument419]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\PCB01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument420]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\PCB01.REP
+DItemRevisionGUID=
+
+[GeneratedDocument421]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\PCB02.REP
+DItemRevisionGUID=
+
+[GeneratedDocument422]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\PCB03.REP
+DItemRevisionGUID=
+
+[GeneratedDocument423]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\PCB04.REP
+DItemRevisionGUID=
+
+[GeneratedDocument424]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\PCB05.REP
+DItemRevisionGUID=
+
+[GeneratedDocument425]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\PCB06.REP
+DItemRevisionGUID=
+
+[GeneratedDocument426]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\PCB07.REP
+DItemRevisionGUID=
+
+[GeneratedDocument427]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\PCB08.REP
+DItemRevisionGUID=
+
+[GeneratedDocument428]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\PCB09.REP
+DItemRevisionGUID=
+
+[GeneratedDocument429]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\PCB10.REP
+DItemRevisionGUID=
+
+[GeneratedDocument430]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\PCB11.REP
+DItemRevisionGUID=
+
+[GeneratedDocument431]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\PCB12.REP
+DItemRevisionGUID=
+
+[GeneratedDocument432]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\PCB13.REP
+DItemRevisionGUID=
+
+[GeneratedDocument433]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\PCB14.REP
+DItemRevisionGUID=
+
+[GeneratedDocument434]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\PCB15.REP
+DItemRevisionGUID=
+
+[GeneratedDocument435]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\PCB16.REP
+DItemRevisionGUID=
+
+[GeneratedDocument436]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\PCB17.REP
+DItemRevisionGUID=
+
+[GeneratedDocument437]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\PCB18.REP
+DItemRevisionGUID=
+
+[GeneratedDocument438]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument439]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument440]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument441]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument442]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument443]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument444]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument445]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument446]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument447]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument448]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument449]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument450]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument451]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument452]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument453]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument454]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument455]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument456]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\profile
+DItemRevisionGUID=
+
+[GeneratedDocument457]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument458]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument459]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument460]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument461]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument462]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument463]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument464]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument465]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument466]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument467]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument468]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument469]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument470]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument471]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument472]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument473]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument474]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument475]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\stephdr
+DItemRevisionGUID=
+
+[GeneratedDocument476]
+DocumentPath=Project Outputs for Free Documents\Folder Structure\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument477]
+DocumentPath=Project Outputs for Simple Simulations\PCB01\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument478]
+DocumentPath=Project Outputs for Simple Simulations\PCB02\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument479]
+DocumentPath=Project Outputs for Simple Simulations\PCB03\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument480]
+DocumentPath=Project Outputs for Simple Simulations\PCB04\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument481]
+DocumentPath=Project Outputs for Simple Simulations\PCB05\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument482]
+DocumentPath=Project Outputs for Simple Simulations\PCB06\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument483]
+DocumentPath=Project Outputs for Simple Simulations\PCB07\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument484]
+DocumentPath=Project Outputs for Simple Simulations\PCB08\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument485]
+DocumentPath=Project Outputs for Simple Simulations\PCB09\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument486]
+DocumentPath=Project Outputs for Simple Simulations\PCB10\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument487]
+DocumentPath=Project Outputs for Simple Simulations\PCB11\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument488]
+DocumentPath=Project Outputs for Simple Simulations\PCB12\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument489]
+DocumentPath=Project Outputs for Simple Simulations\PCB13\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument490]
+DocumentPath=Project Outputs for Simple Simulations\PCB14\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument491]
+DocumentPath=Project Outputs for Simple Simulations\PCB15\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument492]
+DocumentPath=Project Outputs for Simple Simulations\PCB16\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument493]
+DocumentPath=Project Outputs for Simple Simulations\PCB17\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[GeneratedDocument494]
+DocumentPath=Project Outputs for Simple Simulations\PCB18\odb\steps\pcb\layers\drill\tools
+DItemRevisionGUID=
+
+[Configuration1]
+Name=Sources
+ParameterCount=0
+ConstraintFileCount=0
+ReleaseItemId=
+Variant=[No Variations]
+OutputJobsCount=0
+ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
+ConfigurationType=Source
+
+[OutputGroup1]
+Name=Netlist Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=CadnetixNetlist
+OutputName1=Cadnetix Netlist
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=CalayNetlist
+OutputName2=Calay Netlist
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=EDIF
+OutputName3=EDIF for PCB
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=EESofNetlist
+OutputName4=EESof Netlist
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=IntergraphNetlist
+OutputName5=Intergraph Netlist
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+OutputType6=MentorBoardStationNetlist
+OutputName6=Mentor BoardStation Netlist
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=MultiWire
+OutputName7=MultiWire
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=OrCadPCB2Netlist
+OutputName8=Orcad/PCB2 Netlist
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=PADSNetlist
+OutputName9=PADS ASCII Netlist
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=Pcad
+OutputName10=Pcad for PCB
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=PCADNetlist
+OutputName11=PCAD Netlist
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=PCADnltNetlist
+OutputName12=PCADnlt Netlist
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=Protel2Netlist
+OutputName13=Protel2 Netlist
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=ProtelNetlist
+OutputName14=Protel
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+
+[OutputGroup2]
+Name=Simulator Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+
+[OutputGroup3]
+Name=Documentation Outputs
+Description=
+TargetPrinter=Virtual Printer
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Composite
+OutputName1=Composite Drawing
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=PCB 3D Print
+OutputName2=PCB 3D Print
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=PCB 3D Video
+OutputName3=PCB 3D Video
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=PCB Print
+OutputName4=PCB Prints
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=PCBDrawing
+OutputName5=Draftsman
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=PCBLIB Print
+OutputName6=PCBLIB Prints
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=PDF3D
+OutputName7=PDF3D
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=PDF3D MBA
+OutputName8=PDF3D MBA
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Report Print
+OutputName9=Report Prints
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Schematic Print
+OutputName10=Schematic Prints
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=SimView Print
+OutputName11=SimView Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup4]
+Name=Assembly Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Assembly
+OutputName1=Assembly Drawings
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Pick Place
+OutputName2=Generates pick and place files
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=Test Points For Assembly
+OutputName3=Test Point Report
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+
+[OutputGroup5]
+Name=Fabrication Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Board Stack Report
+OutputName1=Report Board Stack
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=CompositeDrill
+OutputName2=Composite Drill Drawing
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Drill
+OutputName3=Drill Drawing/Guides
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Final
+OutputName4=Final Artwork Prints
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Gerber
+OutputName5=Gerber Files
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=Gerber X2
+OutputName6=Gerber X2 Files
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+OutputType7=IPC2581
+OutputName7=IPC-2581 Files
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+OutputType8=Mask
+OutputName8=Solder/Paste Mask Prints
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=NC Drill
+OutputName9=NC Drill Files
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=ODB
+OutputName10=ODB++ Files
+OutputDocumentPath10=
+OutputVariantName10=[No Variations]
+OutputDefault10=0
+OutputType11=Plane
+OutputName11=Power-Plane Prints
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Test Points
+OutputName12=Test Point Report
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+
+[OutputGroup6]
+Name=Report Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_PartType
+OutputName1=Bill of Materials
+OutputDocumentPath1=
+OutputVariantName1=[No Variations]
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=ComponentCrossReference
+OutputName2=Component Cross Reference Report
+OutputDocumentPath2=
+OutputVariantName2=[No Variations]
+OutputDefault2=0
+OutputType3=ReportHierarchy
+OutputName3=Report Project Hierarchy
+OutputDocumentPath3=
+OutputVariantName3=[No Variations]
+OutputDefault3=0
+OutputType4=Script
+OutputName4=Script Output
+OutputDocumentPath4=
+OutputVariantName4=[No Variations]
+OutputDefault4=0
+OutputType5=SimpleBOM
+OutputName5=Simple BOM
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=SinglePinNetReporter
+OutputName6=Report Single Pin Nets
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+
+[OutputGroup7]
+Name=Other Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Text Print
+OutputName1=Text Print
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType2=Text Print
+OutputName2=Text Print
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+PageOptions2=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType3=Text Print
+OutputName3=Text Print
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+PageOptions3=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType4=Text Print
+OutputName4=Text Print
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Text Print
+OutputName5=Text Print
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Text Print
+OutputName6=Text Print
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Text Print
+OutputName7=Text Print
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType8=Text Print
+OutputName8=Text Print
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType9=Text Print
+OutputName9=Text Print
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=Text Print
+OutputName10=Text Print
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType11=Text Print
+OutputName11=Text Print
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType12=Text Print
+OutputName12=Text Print
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType13=Text Print
+OutputName13=Text Print
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType14=Text Print
+OutputName14=Text Print
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType15=Text Print
+OutputName15=Text Print
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType16=Text Print
+OutputName16=Text Print
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType17=Text Print
+OutputName17=Text Print
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType18=Text Print
+OutputName18=Text Print
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType19=Text Print
+OutputName19=Text Print
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
+PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType20=Text Print
+OutputName20=Text Print
+OutputDocumentPath20=
+OutputVariantName20=
+OutputDefault20=0
+PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType21=Text Print
+OutputName21=Text Print
+OutputDocumentPath21=
+OutputVariantName21=
+OutputDefault21=0
+PageOptions21=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType22=Text Print
+OutputName22=Text Print
+OutputDocumentPath22=
+OutputVariantName22=
+OutputDefault22=0
+PageOptions22=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType23=Text Print
+OutputName23=Text Print
+OutputDocumentPath23=
+OutputVariantName23=
+OutputDefault23=0
+PageOptions23=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType24=Text Print
+OutputName24=Text Print
+OutputDocumentPath24=
+OutputVariantName24=
+OutputDefault24=0
+PageOptions24=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType25=Text Print
+OutputName25=Text Print
+OutputDocumentPath25=
+OutputVariantName25=
+OutputDefault25=0
+PageOptions25=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType26=Text Print
+OutputName26=Text Print
+OutputDocumentPath26=
+OutputVariantName26=
+OutputDefault26=0
+PageOptions26=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType27=Text Print
+OutputName27=Text Print
+OutputDocumentPath27=
+OutputVariantName27=
+OutputDefault27=0
+PageOptions27=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType28=Text Print
+OutputName28=Text Print
+OutputDocumentPath28=
+OutputVariantName28=
+OutputDefault28=0
+PageOptions28=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType29=Text Print
+OutputName29=Text Print
+OutputDocumentPath29=
+OutputVariantName29=
+OutputDefault29=0
+PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+
+[OutputGroup8]
+Name=Validation Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=BOM_Violations
+OutputName1=BOM Checks Report
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=Component states check
+OutputName2=Server's components states check
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=Configuration compliance
+OutputName3=Environment configuration compliance check
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=Design Rules Check
+OutputName4=Design Rules Check
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+PageOptions4=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType5=Differences Report
+OutputName5=Differences Report
+OutputDocumentPath5=
+OutputVariantName5=
+OutputDefault5=0
+PageOptions5=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType6=Electrical Rules Check
+OutputName6=Electrical Rules Check
+OutputDocumentPath6=
+OutputVariantName6=
+OutputDefault6=0
+PageOptions6=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType7=Footprint Comparison Report
+OutputName7=Footprint Comparison Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
+
+[OutputGroup9]
+Name=Export Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Ansoft Neutral
+OutputName1=Ansoft Neutral (AutoPCB)
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+OutputType2=AutoCAD dwg/dxf PCB
+OutputName2=AutoCAD dwg/dxf File PCB
+OutputDocumentPath2=
+OutputVariantName2=
+OutputDefault2=0
+OutputType3=AutoCAD dwg/dxf Schematic
+OutputName3=AutoCAD dwg/dxf File Schematic
+OutputDocumentPath3=
+OutputVariantName3=
+OutputDefault3=0
+OutputType4=ExportIDF
+OutputName4=Export IDF
+OutputDocumentPath4=
+OutputVariantName4=
+OutputDefault4=0
+OutputType5=ExportPARASOLID
+OutputName5=Export PARASOLID
+OutputDocumentPath5=
+OutputVariantName5=[No Variations]
+OutputDefault5=0
+OutputType6=ExportSTEP
+OutputName6=Export STEP
+OutputDocumentPath6=
+OutputVariantName6=[No Variations]
+OutputDefault6=0
+OutputType7=ExportVRML
+OutputName7=Export VRML
+OutputDocumentPath7=
+OutputVariantName7=[No Variations]
+OutputDefault7=0
+OutputType8=HyperLynx
+OutputName8=HyperLynx (AutoPCB)
+OutputDocumentPath8=
+OutputVariantName8=
+OutputDefault8=0
+OutputType9=MBAExportPARASOLID
+OutputName9=Export PARASOLID
+OutputDocumentPath9=
+OutputVariantName9=
+OutputDefault9=0
+OutputType10=MBAExportSTEP
+OutputName10=Export STEP
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=Orcad v7 Capture Design
+OutputName11=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=P-CAD ASCII
+OutputName12=P-CAD ASCII (AutoPCB)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD V16 Schematic Design
+OutputName13=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=Save As/Export PCB
+OutputName14=Save As/Export PCB
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=Save As/Export Schematic
+OutputName15=Save As/Export Schematic
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=SiSoft
+OutputName16=SiSoft (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=Specctra Design PCB
+OutputName17=Specctra Design PCB
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+
+[OutputGroup10]
+Name=PostProcess Outputs
+Description=
+TargetPrinter=NPI0891A7 (HP LaserJet Professional P1606dn)
+PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
+OutputType1=Copy Files
+OutputName1=Copy Files
+OutputDocumentPath1=
+OutputVariantName1=
+OutputDefault1=0
+
+[Modification Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+Type69=1
+Type70=1
+Type71=1
+Type72=1
+Type73=1
+Type74=1
+Type75=1
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=1
+Type81=1
+Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
+Type117=1
+Type118=1
+Type119=1
+
+[Difference Levels]
+Type1=1
+Type2=1
+Type3=1
+Type4=1
+Type5=1
+Type6=1
+Type7=1
+Type8=1
+Type9=1
+Type10=1
+Type11=1
+Type12=1
+Type13=1
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=1
+Type21=1
+Type22=1
+Type23=1
+Type24=1
+Type25=1
+Type26=1
+Type27=1
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=1
+Type33=1
+Type34=1
+Type35=1
+Type36=1
+Type37=1
+Type38=1
+Type39=1
+Type40=1
+Type41=1
+Type42=1
+Type43=1
+Type44=1
+Type45=1
+Type46=1
+Type47=1
+Type48=1
+Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
+Type66=1
+Type67=1
+Type68=1
+
+[Electrical Rules Check]
+Type1=1
+Type2=1
+Type3=2
+Type4=1
+Type5=2
+Type6=2
+Type7=0
+Type8=1
+Type9=1
+Type10=1
+Type11=2
+Type12=0
+Type13=0
+Type14=1
+Type15=1
+Type16=1
+Type17=1
+Type18=1
+Type19=1
+Type20=0
+Type21=0
+Type22=0
+Type23=0
+Type24=1
+Type25=2
+Type26=0
+Type27=2
+Type28=1
+Type29=1
+Type30=1
+Type31=1
+Type32=2
+Type33=0
+Type34=2
+Type35=1
+Type36=2
+Type37=1
+Type38=2
+Type39=2
+Type40=2
+Type41=0
+Type42=2
+Type43=1
+Type44=0
+Type45=0
+Type46=0
+Type47=0
+Type48=0
+Type49=0
+Type50=2
+Type51=0
+Type52=0
+Type53=1
+Type54=1
+Type55=1
+Type56=2
+Type57=1
+Type58=1
+Type59=2
+Type60=0
+Type61=0
+Type62=0
+Type63=0
+Type64=0
+Type65=2
+Type66=3
+Type67=2
+Type68=2
+Type69=2
+Type70=2
+Type71=2
+Type72=2
+Type73=2
+Type74=1
+Type75=2
+Type76=1
+Type77=1
+Type78=1
+Type79=1
+Type80=2
+Type81=3
+Type82=3
+Type83=3
+Type84=3
+Type85=3
+Type86=2
+Type87=2
+Type88=2
+Type89=1
+Type90=1
+Type91=3
+Type92=3
+Type93=2
+Type94=2
+Type95=2
+Type96=2
+Type97=2
+Type98=0
+Type99=1
+Type100=2
+Type101=0
+Type102=2
+Type103=2
+Type104=1
+Type105=2
+Type106=2
+Type107=2
+Type108=2
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
+
+[ERC Connection Matrix]
+L1=NNNNNNNNNNNWNNNWW
+L2=NNWNNNNWWWNWNWNWN
+L3=NWEENEEEENEWNEEWN
+L4=NNENNNWEENNWNENWN
+L5=NNNNNNNNNNNNNNNNN
+L6=NNENNNNEENNWNENWN
+L7=NNEWNNWEENNWNENWN
+L8=NWEENEENEEENNEENN
+L9=NWEENEEEENEWNEEWW
+L10=NWNNNNNENNEWNNEWN
+L11=NNENNNNEEENWNENWN
+L12=WWWWNWWNWWWNWWWNN
+L13=NNNNNNNNNNNWNNNWW
+L14=NWEENEEEENEWNEEWW
+L15=NNENNNNEEENWNENWW
+L16=WWWWNWWNWWWNWWWNW
+L17=WNNNNNNNWNNNWWWWN
+
+[Annotate]
+SortOrder=3
+SortLocation=0
+ReplaceSubparts=0
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
+MatchStrictly2=1
+PhysicalNamingFormat=$Component_$RoomName
+GlobalIndexSortOrder=3
+GlobalIndexSortLocation=0
+
+[PrjClassGen]
+CompClassManualEnabled=0
+CompClassManualRoomEnabled=0
+NetClassAutoBusEnabled=1
+NetClassAutoCompEnabled=0
+NetClassAutoNamedHarnessEnabled=0
+NetClassManualEnabled=0
+NetClassSeparateForBusSections=0
+
+[LibraryUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+FullReplace=1
+UpdateDesignatorLock=1
+UpdatePartIDLock=1
+PreserveParameterLocations=1
+PreserveParameterVisibility=1
+DoGraphics=1
+DoParameters=1
+DoModels=1
+AddParameters=0
+RemoveParameters=0
+AddModels=1
+RemoveModels=1
+UpdateCurrentModels=1
+
+[DatabaseUpdateOptions]
+SelectedOnly=0
+UpdateVariants=1
+UpdateToLatestRevision=1
+PartTypes=0
+
+[Comparison Options]
+ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions2=Kind=Component Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions3=Kind=Rule|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+ComparisonOptions4=Kind=Differential Pair|MinPercent=50|MinMatch=1|ShowMatch=0|Confirm=0|UseName=0|InclAllRules=0
+ComparisonOptions5=Kind=Structure Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
+
+[SmartPDF]
+PageOptions=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+

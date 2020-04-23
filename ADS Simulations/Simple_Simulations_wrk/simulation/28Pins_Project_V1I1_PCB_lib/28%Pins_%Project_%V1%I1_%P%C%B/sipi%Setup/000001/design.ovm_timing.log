@@ -1,0 +1,31 @@
+Generating Mesh	2.61754
+Generating Mesh\Assigning Materials 	0.0125155
+Generating Mesh\Computing Aabb 	0.0013538
+Generating Mesh\Generating surface mesh 	0.617922
+Generating Mesh\Generating surface mesh \Assigning properties	0.0229378
+Generating Mesh\Generating surface mesh \Checking surface mesh consistency	0.0151317
+Generating Mesh\Generating surface mesh \Computing Aabbs	0.0023476
+Generating Mesh\Generating surface mesh \Convert Global Mesh into Local Meshes	0.0335459
+Generating Mesh\Generating surface mesh \Convert Global Mesh into Local Meshes\Stabilizing mesh	0.0002002
+Generating Mesh\Generating surface mesh \Faceting	0.522143
+Generating Mesh\Healing input 	0.0021825
+Generating Mesh\Reading Design 	0.113774
+Generating Mesh\Refining Surface Mesh	1.83844
+Generating Mesh\Refining Surface Mesh\Checking via	0.0003674
+Generating Mesh\Refining Surface Mesh\Convert Local Mesh to Global Mesh	0.0740979
+Generating Mesh\Refining Surface Mesh\Detecting Connectivity Problems	0.0285001
+Generating Mesh\Refining Surface Mesh\Insert pins MT	0.529525
+Generating Mesh\Refining Surface Mesh\Locating Pins	0.100168
+Generating Mesh\Refining Surface Mesh\Locating Pins\Locating instances on layers	0.0799444
+Generating Mesh\Refining Surface Mesh\Locating Pins\Locating pins on layers	0.0201893
+Generating Mesh\Refining Surface Mesh\Looking for Electrically Isolated Patches 	0.0561247
+Generating Mesh\Refining Surface Mesh\Mark electrical interconnects	0.0435624
+Generating Mesh\Refining Surface Mesh\Marking Degenerate Elements	0.0190449
+Generating Mesh\Refining Surface Mesh\Marking Vias	0.0082459
+Generating Mesh\Refining Surface Mesh\Marking thickness for non-circular vias	0.0008355
+Generating Mesh\Refining Surface Mesh\Pruning Surface Mesh 	0.054892
+Generating Mesh\Refining Surface Mesh\Recovering surface attributes 	0.0031415
+Generating Mesh\Refining Surface Mesh\Writing ASCII surface mesh file 	0.797789
+Generating Mesh\Refining Surface Mesh\Writing BINARY surface mesh file 	0.070367
+Shutting down modeling environment	0.0013611
+Starting modeling environment	0.0069837

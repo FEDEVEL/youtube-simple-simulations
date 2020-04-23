@@ -1,0 +1,15 @@
+<!DOCTYPE Stack>
+<StackModel>
+    <stack>
+        <material thickunit="mil" negative="0" dielectric_constant="" default="0" loss_tangent="" thick="62.99209999999999" materialname="FR_4_Core"/>
+        <material thickunit="mil" negative="0" dielectric_constant="" default="0" loss_tangent="" thick="0.4" materialname="FR_4_Core"/>
+    </stack>
+    <layers>
+        <layer thickunit="mil" layer="1006" negative="0" index="1" default="0" thick="1.360283686" layername="top_layer"/>
+        <layer thickunit="mil" layer="1007" negative="0" index="0" default="0" thick="1.360283686" layername="bottom_layer"/>
+    </layers>
+    <vias>
+        <via layer="1011" rough="" index2="0" index1="1" subtype="0" precedence="0" materialname="Copper"/>
+        <via layer="1012" rough="" index2="0" index1="1" subtype="0" precedence="0" materialname="Copper"/>
+    </vias>
+</StackModel>

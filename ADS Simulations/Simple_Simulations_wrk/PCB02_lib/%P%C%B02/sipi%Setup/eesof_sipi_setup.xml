@@ -1,0 +1,16 @@
+<eesof_sipi_setup>
+ <version>
+  <actual>3</actual>
+  <minimum>0</minimum>
+ </version>
+ <tool>sipi</tool>
+ <layout>
+  <lib>PCB02_lib</lib>
+  <cell>PCB02</cell>
+  <view>layout</view>
+ </layout>
+ <substrate>
+  <lib>PCB02_lib</lib>
+  <name>PCB02</name>
+ </substrate>
+</eesof_sipi_setup>

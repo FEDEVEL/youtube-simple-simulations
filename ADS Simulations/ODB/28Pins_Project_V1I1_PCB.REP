@@ -1,0 +1,100 @@
+*************************************************************
+FileName = 28Pins_Project_V1I1_PCB.PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\matrix\matrix
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\profile
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\stephdr
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill_guide\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill_guide\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill_drawing\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill_drawing\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\board_outline\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\board_outline\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\dielectric5\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\dielectric5\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\bottom_paste\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\bottom_paste\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\mechanical_drawing\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\mechanical_drawing\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\multi-layer\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\multi-layer\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\top_paste\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\top_solder\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\l2\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\l2\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\l1\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\l1\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\asm_top\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\asm_top\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\drill\tools
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\manufacturing_notes\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\manufacturing_notes\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\licence\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\licence\attrlist
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : D:\TMP\28Pins\V1I1\Project Outputs for 28Pins_Project_V1I1\ODB\odb\steps\pcb\eda\data
+

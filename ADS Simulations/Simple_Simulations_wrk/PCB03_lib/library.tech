@@ -1,0 +1,25 @@
+<!DOCTYPE Technology>
+<Lpp_List>
+    <LPP layer="board" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="3100495" alpha="105" visible="1"/>
+    <LPP layer="bottom_layer" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="13458524" alpha="105" visible="1"/>
+    <LPP layer="bottom_overlay" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="2003199" alpha="105" visible="1"/>
+    <LPP layer="bottom_paste" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16444375" alpha="105" visible="1"/>
+    <LPP layer="bottom_solder" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16716947" alpha="105" visible="1"/>
+    <LPP layer="comp_pkg_bottom" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16776960" alpha="105" visible="1"/>
+    <LPP layer="comp_pkg_pad" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="49152" alpha="105" visible="1"/>
+    <LPP layer="comp_pkg_top" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16711680" alpha="105" visible="1"/>
+    <LPP layer="dielectric_1" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="9419919" alpha="105" visible="1"/>
+    <LPP layer="drill" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="9419919" alpha="105" visible="1"/>
+    <LPP layer="drill_drawing" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="9127187" alpha="105" visible="1"/>
+    <LPP layer="drill_guide" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="15787660" alpha="105" visible="1"/>
+    <LPP layer="keep-out_layer" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="13789470" alpha="105" visible="1"/>
+    <LPP layer="mechanical_1" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16711680" alpha="105" visible="1"/>
+    <LPP layer="mechanical_29" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="4620980" alpha="105" visible="1"/>
+    <LPP layer="multi-layer" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16775885" alpha="105" visible="1"/>
+    <LPP layer="silk_screen2" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16738740" alpha="105" visible="1"/>
+    <LPP layer="silk_screen" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="15654274" alpha="105" visible="1"/>
+    <LPP layer="top_layer" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="25600" alpha="105" visible="1"/>
+    <LPP layer="top_overlay" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="65535" alpha="105" visible="1"/>
+    <LPP layer="top_paste" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="255" alpha="105" visible="1"/>
+    <LPP layer="top_solder" protect="0" fill="18" purpose="drawing" line="0" mode="2" rgb="16711935" alpha="105" visible="1"/>
+</Lpp_List>

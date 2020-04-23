@@ -1,0 +1,21 @@
+InstanceList size is 3
+Found 0 instances, missed 18 instances (probably disabled in simulation), 0 instances overlapped with other pins or instances
+
+7	J1	Not found,growthperc=0,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591), inputPosition= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591)
+8	J2	Not found,growthperc=0,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591), inputPosition= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591)
+9	J3	Not found,growthperc=0,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591), inputPosition= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591)
+7	J1	Not found,growthperc=0.01,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591), inputPosition= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591)
+8	J2	Not found,growthperc=0.01,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591), inputPosition= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591)
+9	J3	Not found,growthperc=0.01,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591), inputPosition= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591)
+7	J1	Not found,growthperc=0.05,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591), inputPosition= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591)
+8	J2	Not found,growthperc=0.05,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591), inputPosition= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591)
+9	J3	Not found,growthperc=0.05,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591), inputPosition= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591)
+7	J1	Not found,growthperc=0.1,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591), inputPosition= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591)
+8	J2	Not found,growthperc=0.1,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591), inputPosition= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591)
+9	J3	Not found,growthperc=0.1,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591), inputPosition= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591)
+7	J1	Not found,growthperc=0.2,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591), inputPosition= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591)
+8	J2	Not found,growthperc=0.2,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591), inputPosition= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591)
+9	J3	Not found,growthperc=0.2,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591), inputPosition= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591)
+7	J1	Not found,growthperc=0.5,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591), inputPosition= (0.01,0.04746,0.00032004)-(0.01,0.05,0.000354591)
+8	J2	Not found,growthperc=0.5,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591), inputPosition= (0.05,0.04746,0.00032004)-(0.05,0.05,0.000354591)
+9	J3	Not found,growthperc=0.5,findBufferLength=0,preferential=1, layerIds=[6], stackIds=[1], position= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591), inputPosition= (0.09,0.04746,0.00032004)-(0.09,0.05,0.000354591)

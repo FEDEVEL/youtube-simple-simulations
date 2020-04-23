@@ -1,0 +1,61 @@
+Version 9
+begin_<FEMProject> 
+begin_<Units> 
+begin_<Display> 
+Name mil
+Conversion 39370.078740157485
+end_<Display>
+begin_<Modeling> 
+Name mm
+Conversion 1000
+end_<Modeling>
+end_<Units>
+begin_<RunParameters> 
+begin_<OuterBoundaries> 
+LowerX ORBC_CPML
+UpperX ORBC_CPML
+LowerY ORBC_CPML
+UpperY ORBC_CPML
+LowerZ ORBC_CPML
+UpperZ ORBC_CPML
+NumberOfPMLLayers 7
+end_<OuterBoundaries>
+begin_<AmbientConditions> 
+begin_<BackgroundMedium> 
+Temperature 298.14999389648438
+end_<BackgroundMedium>
+begin_<Top> 
+HeatTransferCoefficient 10
+end_<Top>
+begin_<Bottom> 
+HeatTransferCoefficient 2.5
+end_<Bottom>
+end_<AmbientConditions>
+begin_<ComponentsPorts> 
+PortType 1
+end_<ComponentsPorts>
+begin_<WaveGuidePorts> 
+end_<WaveGuidePorts>
+begin_<TerminationCriteria> 
+MaximumTimeSteps 50000
+MaximumWallClockSeconds 0
+ConvergenceEnabled
+Threshhold -30
+SamplingInterval 100
+WindowSize 2
+MinimumTimeSteps 0
+FlatLineDetectionEnabled
+MEDIUM_DENSITY
+begin_<TdAfsTerminationCriteria> 
+StartFrequency 1000000000
+StopFrequency 10000000000
+NumberOfFrequencyPoints 1000
+ENERGY
+INTERPOLATION
+NumberOfConsecutivePasses 1
+end_<TdAfsTerminationCriteria>
+end_<TerminationCriteria>
+end_<RunParameters>
+begin_<RequestResults> 
+end_<RequestResults>
+end_<FEMProject>

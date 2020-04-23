@@ -1,0 +1,60 @@
+<!DOCTYPE SimulationData>
+<SimulationData>
+  <SimulationData sname="DC Analysis" Generation="1" UseTotalScatteredFieldFormulation="false" TotalScatteredFieldInterfaces="NoInterfaces" ExcitationType="DiscreteSources" ComputeDissipatedPower="false">
+    <BoundaryConditions ptrID="0" subjectID="1">
+      <BoundaryConditions YLowerBoundaryType="Absorbing" ZUpperBoundaryType="Absorbing" AbsorptionType="PML" XLowerBoundaryType="Absorbing" XUpperBoundaryType="Absorbing" YUpperBoundaryType="Absorbing" ZLowerBoundaryType="Absorbing">
+        <NumPMLLayers ptrID="2" subjectID="3">
+          <Expression>
+            <Formula typeid="2" type="Int" value="7"/>
+          </Expression>
+        </NumPMLLayers>
+        <UseHybridFemMom value="false"/>
+        <HybridFemMomType>Volakis_Symm</HybridFemMomType>
+        <WrittenWith BuildString="AAAAlnicJYqxCsIwFEX3fsUFFwVffL7UFjq6uRUqOCc20YhtSkwH/96qcLgcuOd8Dy8sdKc2xV37XXQuzxN0LYqZsa5KsiFvVFEc5/DM8CkOcFxdfX8Q5xE93DClSHa5exIWJt6T1NQnc4tjyA5xhLEPugjsG78OJuOfCkm5aKPLhnmLldbqA18kKyc=" RevisionID="33" Version="SIPro/PIPro Setup 372.000 (64-bit)"/>
+        <SelectedType value="1823910064"/>
+      </BoundaryConditions>
+    </BoundaryConditions>
+    <ParameterValues>
+      <ParameterList/>
+    </ParameterValues>
+    <ActivePorts>
+      <PortList/>
+    </ActivePorts>
+    <SteadyStateFrequencySets/>
+    <FieldStorageFrequencySets/>
+    <Sinusoidal DataFormat="ASCII" Count="1" Compressed="false">0</Sinusoidal>
+    <StaticVoltagePointSets>
+      <StaticVoltagePointSet/>
+    </StaticVoltagePointSets>
+    <FrequencyRangesOfInterest>
+      <FrequencyRange Max="-1" Min="-1"/>
+    </FrequencyRangesOfInterest>
+    <RunDirectories>
+      <Item>Run0001</Item>
+    </RunDirectories>
+    <Timesteps DataFormat="ASCII" Count="1" Compressed="false">-1</Timesteps>
+    <MaximumFrequencies DataFormat="ASCII" Count="1" Compressed="false">-1</MaximumFrequencies>
+    <Details>Simulation Summary%0A======================================================%0AEM engine:                 PI-DC%0A%0AActive Ports:    %3CNone%3E%0A%0AList of parameters and their values:%0A    Name       Formula    Value    %0A    ------------------------------------%0A%0A</Details>
+    <BoundingBox>
+      <Upper x="0.19773500204000005" y="0.19773500204000005" z="0.10012455224000003"/>
+      <Lower x="-0.097735001380000019" y="-0.097735001380000019" z="-0.098524552240000021"/>
+    </BoundingBox>
+    <FemSaveFieldsFor value="0"/>
+    <CreationDateTime value="1587457302"/>
+    <AgNewSimulationData>
+      <WrittenWith BuildString="AAAAlnicJYqxCsIwFEX3fsUFFwVffL7UFjq6uRUqOCc20YhtSkwH/96qcLgcuOd8Dy8sdKc2xV37XXQuzxN0LYqZsa5KsiFvVFEc5/DM8CkOcFxdfX8Q5xE93DClSHa5exIWJt6T1NQnc4tjyA5xhLEPugjsG78OJuOfCkm5aKPLhnmLldbqA18kKyc=" RevisionID="33" Version="SIPro/PIPro Setup 372.000 (64-bit)"/>
+      <Engine value="4"/>
+      <HasAdaptiveFrequencyPlans value="false"/>
+      <FemEigenMode value="false"/>
+      <PortOnlyMode value="false"/>
+      <Reuse value="false"/>
+      <UseDistributed value="false"/>
+      <RunLocal value="true"/>
+      <NumberOfThreads value="0"/>
+      <NumberOfParallelFreq value="1"/>
+      <NumberOfNodes value="1"/>
+      <ResourceSettings NumberOfThreads="0" NumberOfParallelFreq="1" NumberOfNodes="1" RunLocal="true" BatchMode="BatchLocal" UseDistributed="false"/>
+      <HasTdafsSParameterData value="false"/>
+    </AgNewSimulationData>
+  </SimulationData>
+</SimulationData>

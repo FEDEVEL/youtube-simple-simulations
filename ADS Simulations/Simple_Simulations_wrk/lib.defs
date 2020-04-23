@@ -1,0 +1,41 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE Simple_Simulations_lib Simple_Simulations_lib
+ASSIGN Simple_Simulations_lib libMode shared
+DEFINE PCB01_lib PCB01_lib
+ASSIGN PCB01_lib libMode shared
+DEFINE PCB02_lib PCB02_lib
+ASSIGN PCB02_lib libMode shared
+DEFINE PCB03_lib PCB03_lib
+ASSIGN PCB03_lib libMode shared
+DEFINE PCB04_lib PCB04_lib
+ASSIGN PCB04_lib libMode shared
+DEFINE PCB05_lib PCB05_lib
+ASSIGN PCB05_lib libMode shared
+DEFINE PCB06_lib PCB06_lib
+ASSIGN PCB06_lib libMode shared
+DEFINE PCB07_lib PCB07_lib
+ASSIGN PCB07_lib libMode shared
+DEFINE PCB08_lib PCB08_lib
+ASSIGN PCB08_lib libMode shared
+DEFINE PCB09_lib PCB09_lib
+ASSIGN PCB09_lib libMode shared
+DEFINE PCB10_lib PCB10_lib
+ASSIGN PCB10_lib libMode shared
+DEFINE PCB11_lib PCB11_lib
+ASSIGN PCB11_lib libMode shared
+DEFINE PCB12_lib PCB12_lib
+ASSIGN PCB12_lib libMode shared
+DEFINE PCB13_lib PCB13_lib
+ASSIGN PCB13_lib libMode shared
+DEFINE PCB14_lib PCB14_lib
+ASSIGN PCB14_lib libMode shared
+DEFINE PCB15_lib PCB15_lib
+ASSIGN PCB15_lib libMode shared
+DEFINE PCB16_lib PCB16_lib
+ASSIGN PCB16_lib libMode shared
+DEFINE PCB17_lib PCB17_lib
+ASSIGN PCB17_lib libMode shared
+DEFINE PCB18_lib PCB18_lib
+ASSIGN PCB18_lib libMode shared
+DEFINE 28Pins_Project_V1I1_PCB_lib 28Pins_Project_V1I1_PCB_lib
+ASSIGN 28Pins_Project_V1I1_PCB_lib libMode shared

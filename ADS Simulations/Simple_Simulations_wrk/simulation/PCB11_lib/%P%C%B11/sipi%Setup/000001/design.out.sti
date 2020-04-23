@@ -1,0 +1,24 @@
+StiFile 1
+# File generated on Tue Apr 21 10:48:13 2020
+
+Electric 1:
+  name: +VCC_J1
+  voltage: 1.49988
+  current: -6
+  pluspin: 1  voltage: 1.49988  current: -6  name: J1.1
+  minpin: 2  voltage: 6e-05  current: 6  name: J1.2
+
+Electric 2:
+  name: +VCC_J2
+  voltage: 1.27256
+  current: 3
+  pluspin: 3  voltage: 1.38628  current: 3  name: J2.1
+  minpin: 4  voltage: 0.113726  current: -3  name: J2.2
+
+Electric 3:
+  name: +VCC_J3
+  voltage: 1.27139
+  current: 3
+  pluspin: 5  voltage: 1.3853  current: 3  name: J3.1
+  minpin: 6  voltage: 0.113911  current: -3  name: J3.2
+

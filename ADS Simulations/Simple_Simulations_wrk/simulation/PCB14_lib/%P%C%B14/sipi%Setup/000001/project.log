@@ -1,0 +1,42 @@
+License checkout started
+License checkout completed
+FEM_VMESH v1.109.55
+Generating DC mesh
+Building Model
+Generated: 
+  32382 mesh elements
+
+
+
+Starting the DC solver at Tue Apr 21 10:53:47 2020
+Creating the DC circuit
+..parsing the options file 
+..using NUMBER_OF_PROCESSORS = 8
+..parsing the layout file 
+..parsing the stimulus file 
+..extracting the connectivity 
+..extracting the substrate 
+Initializing electric analysis
+Electric analysis
+..loading the electric component models
+..electric matrix size: 45902
+..loading the electric matrix equation
+..solving the electric matrix equation
+.........|.........|.........|.........|
+..max voltage: 1.49994
+..writing the output files
+Electric N-port analysis
+..number of ports: 3
+..loading the electric component models
+..electric matrix size: 45902
+..loading the electric matrix equation
+..solving the electric matrix equation
+.........|.........|.........|.........|
+..writing the model file
+DC solver resources
+..elapsed time: 2.0 s
+..user time: 4.6 s
+..physical memory: 90 MB
+..virtual memory: 102 MB
+
+

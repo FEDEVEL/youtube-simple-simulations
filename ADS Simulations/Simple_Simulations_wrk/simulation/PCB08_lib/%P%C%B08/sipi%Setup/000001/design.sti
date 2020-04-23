@@ -1,0 +1,54 @@
+StiFile 1
+# Generated 2020-04-21 10:26:48.978000
+
+# Vrm;1;+VCC_J1;1.500000;0.010000
+# VrmPlus;1;J1.1
+# VrmMinus;1;J1.2
+# VrmNetPlus;1;+VCC
+# Sink;2;+VCC_J2;3.000000;0.050000
+# SinkPlus;2;J2.1
+# SinkMinus;2;J2.2
+# SinkNetPlus;2;+VCC
+# Sink;3;+VCC_J3;3.000000;0.050000
+# SinkPlus;3;J3.1
+# SinkMinus;3;J3.2
+# SinkNetPlus;3;+VCC
+# Available Pins
+# AvailablePin;4;J2.2
+# AvailablePin;3;J2.1
+# AvailablePin;6;J3.2
+# AvailablePin;5;J3.1
+# AvailablePin;1;J1.1
+# AvailablePin;2;J1.2
+# Available Instance Pins
+# AvailableInstancePin;7;J1
+# AvailableInstancePin;8;J2
+# AvailableInstancePin;9;J3
+# Used Pins
+# UsedPin;4;J2.2
+# UsedPin;3;J2.1
+# UsedPin;6;J3.2
+# UsedPin;5;J3.1
+# UsedPin;1;J1.1
+# UsedPin;2;J1.2
+Electric 1:
+  name: +VCC_J1
+  port: 1
+  pluspin: 1 pwr R=0 name=J1.1
+  minpin: 2 gnd R=0 name=J1.2
+  load: short
+  source: voltage V=1.500000
+Electric 2:
+  name: +VCC_J2
+  port: 2
+  pluspin: 3 pwr R=0 name=J2.1
+  minpin: 4 gnd R=0 name=J2.2
+  load: resistor R=1000000.000000
+  source: current I=-3.000000
+Electric 3:
+  name: +VCC_J3
+  port: 3
+  pluspin: 5 pwr R=0 name=J3.1
+  minpin: 6 gnd R=0 name=J3.2
+  load: resistor R=1000000.000000
+  source: current I=-3.000000

@@ -1,0 +1,13 @@
+H optimize n staggered n
+$0 $NONE$
+$1 +VCC
+$2 GND
+#
+#Netlist points
+#
+1 0.023622 0.3937008 1.9685039 B e e staggered 0 0 0
+1 0.023622 3.5433071 0.3937008 B e e staggered 0 0 0
+1 0.023622 3.5433071 3.5433071 B e e staggered 0 0 0
+2 0.023622 3.5433071 0.2937008 B e e staggered 0 0 0
+2 0.023622 0.3937008 1.8685039 B e e staggered 0 0 0
+2 0.023622 3.5433071 3.4433071 B e e staggered 0 0 0

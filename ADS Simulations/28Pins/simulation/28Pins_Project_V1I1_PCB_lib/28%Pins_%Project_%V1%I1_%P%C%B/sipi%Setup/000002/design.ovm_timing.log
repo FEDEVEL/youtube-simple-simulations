@@ -1,0 +1,31 @@
+Generating Mesh	3.11797
+Generating Mesh\Assigning Materials 	0.0158167
+Generating Mesh\Computing Aabb 	0.0006401
+Generating Mesh\Generating surface mesh 	0.742971
+Generating Mesh\Generating surface mesh \Assigning properties	0.0311526
+Generating Mesh\Generating surface mesh \Checking surface mesh consistency	0.0179416
+Generating Mesh\Generating surface mesh \Computing Aabbs	0.0020155
+Generating Mesh\Generating surface mesh \Convert Global Mesh into Local Meshes	0.028647
+Generating Mesh\Generating surface mesh \Convert Global Mesh into Local Meshes\Stabilizing mesh	0.0002289
+Generating Mesh\Generating surface mesh \Faceting	0.639519
+Generating Mesh\Healing input 	0.0027393
+Generating Mesh\Reading Design 	0.117645
+Generating Mesh\Refining Surface Mesh	2.21567
+Generating Mesh\Refining Surface Mesh\Checking via	0.0003798
+Generating Mesh\Refining Surface Mesh\Convert Local Mesh to Global Mesh	0.0985975
+Generating Mesh\Refining Surface Mesh\Detecting Connectivity Problems	0.0339254
+Generating Mesh\Refining Surface Mesh\Insert pins MT	0.560605
+Generating Mesh\Refining Surface Mesh\Locating Pins	0.10439
+Generating Mesh\Refining Surface Mesh\Locating Pins\Locating instances on layers	0.0863944
+Generating Mesh\Refining Surface Mesh\Locating Pins\Locating pins on layers	0.017952
+Generating Mesh\Refining Surface Mesh\Looking for Electrically Isolated Patches 	0.0683922
+Generating Mesh\Refining Surface Mesh\Mark electrical interconnects	0.0465083
+Generating Mesh\Refining Surface Mesh\Marking Degenerate Elements	0.0127825
+Generating Mesh\Refining Surface Mesh\Marking Vias	0.0084757
+Generating Mesh\Refining Surface Mesh\Marking thickness for non-circular vias	0.0007494
+Generating Mesh\Refining Surface Mesh\Pruning Surface Mesh 	0.0626446
+Generating Mesh\Refining Surface Mesh\Recovering surface attributes 	0.0039123
+Generating Mesh\Refining Surface Mesh\Writing ASCII surface mesh file 	1.01119
+Generating Mesh\Refining Surface Mesh\Writing BINARY surface mesh file 	0.109422
+Shutting down modeling environment	0.0011585
+Starting modeling environment	0.0034707

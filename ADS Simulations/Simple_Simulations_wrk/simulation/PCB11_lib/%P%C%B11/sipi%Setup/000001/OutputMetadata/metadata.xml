@@ -1,0 +1,35 @@
+<!DOCTYPE RunOutput>
+<RunOutput>
+  <OutputObjectMetadata ptrID="0" subjectID="1">
+    <SystemOutputObjectMetadata Name="System">
+      <OutputObjectMetadata/>
+      <MaterialList>
+        <Item>AIR</Item>
+        <Item>FR_4</Item>
+        <Item>Copper</Item>
+        <Item>Averaged Materials</Item>
+      </MaterialList>
+      <ElectricAssociations>
+        <Association Key="1">
+          <Indices Count="3" Compressed="false" DataFormat="ASCII">2 2 2</Indices>
+        </Association>
+        <Association Key="0"/>
+        <Association Key="3">
+          <Indices Count="3" Compressed="false" DataFormat="ASCII">4 4 4</Indices>
+        </Association>
+        <Association Key="2">
+          <Indices Count="3" Compressed="false" DataFormat="ASCII">3 3 3</Indices>
+        </Association>
+      </ElectricAssociations>
+      <MagneticAssociations>
+        <Association Key="1">
+          <Indices Count="3" Compressed="false" DataFormat="ASCII">0 0 0</Indices>
+        </Association>
+        <Association Key="0"/>
+        <Association Key="2">
+          <Indices Count="3" Compressed="false" DataFormat="ASCII">0 0 0</Indices>
+        </Association>
+      </MagneticAssociations>
+    </SystemOutputObjectMetadata>
+  </OutputObjectMetadata>
+</RunOutput>

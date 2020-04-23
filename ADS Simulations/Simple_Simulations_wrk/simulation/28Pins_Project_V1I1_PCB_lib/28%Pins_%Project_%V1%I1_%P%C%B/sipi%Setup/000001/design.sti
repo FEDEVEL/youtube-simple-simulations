@@ -1,0 +1,544 @@
+StiFile 1
+# Generated 2020-04-21 11:15:45.434000
+
+# Vrm;1;+5V_USB_J7;1.500000;0.010000
+# VrmPlus;1;J7.1
+# VrmMinus;1;J7.5;J7.6;J7.7;J7.8;J7.9;J7.10;J7.11
+# VrmNetPlus;1;+5V_USB
+# Sink;2;+5V_3V3_328P_AVCC_U1;0.100000;0.050000
+# SinkPlus;2;U1.20
+# SinkMinus;2;U1.8;U1.22
+# SinkNetPlus;2;+5V_3V3_328P_AVCC
+# Sink;3;+5V_3V3_328P_VCC_U1;0.100000;0.050000
+# SinkPlus;3;U1.7
+# SinkMinus;3;U1.8;U1.22
+# SinkNetPlus;3;+5V_3V3_328P_VCC
+# Sink;4;+5V_3V3_J5;3.000000;0.050000
+# SinkPlus;4;J5.2
+# SinkMinus;4;J5.6
+# SinkNetPlus;4;+5V_3V3
+# ComponentModel;5;L1
+# ComponentModelPlus;5;L1.1
+# ComponentModelMinus;5;L1.2
+# ComponentModel;6;R27
+# ComponentModelPlus;6;R27.1
+# ComponentModelMinus;6;R27.2
+# ComponentModel;7;FB2
+# ComponentModelPlus;7;FB2.1
+# ComponentModelMinus;7;FB2.2
+# ComponentModel;8;FB3
+# ComponentModelPlus;8;FB3.1
+# ComponentModelMinus;8;FB3.2
+# Available Pins
+# AvailablePin;237;JP2.4
+# AvailablePin;236;JP2.3
+# AvailablePin;54;C10.2
+# AvailablePin;53;C10.1
+# AvailablePin;178;U2.29
+# AvailablePin;175;U2.26
+# AvailablePin;19;C7.1
+# AvailablePin;20;C7.2
+# AvailablePin;174;U2.25
+# AvailablePin;95;C23.1
+# AvailablePin;25;R4.1
+# AvailablePin;26;R4.2
+# AvailablePin;96;C23.2
+# AvailablePin;118;R2.2
+# AvailablePin;56;C25.2
+# AvailablePin;55;C25.1
+# AvailablePin;117;R2.1
+# AvailablePin;39;C12.1
+# AvailablePin;263;J1.8
+# AvailablePin;40;C12.2
+# AvailablePin;215;Z1.2
+# AvailablePin;259;J1.4
+# AvailablePin;221;FID4.1
+# AvailablePin;261;J1.6
+# AvailablePin;180;U2.31
+# AvailablePin;258;J1.3
+# AvailablePin;216;Z2.1
+# AvailablePin;114;C1.2
+# AvailablePin;177;U2.28
+# AvailablePin;113;C1.1
+# AvailablePin;319;U3.2
+# AvailablePin;320;U3.3
+# AvailablePin;209;U1.28
+# AvailablePin;219;FID2.1
+# AvailablePin;321;U3.4
+# AvailablePin;247;J6.4
+# AvailablePin;189;U1.8
+# AvailablePin;190;U1.9
+# AvailablePin;286;FB1.1
+# AvailablePin;37;C3.1
+# AvailablePin;38;C3.2
+# AvailablePin;176;U2.27
+# AvailablePin;182;U1.1
+# AvailablePin;183;U1.2
+# AvailablePin;184;U1.3
+# AvailablePin;185;U1.4
+# AvailablePin;173;U2.24
+# AvailablePin;187;U1.6
+# AvailablePin;188;U1.7
+# AvailablePin;57;C27.1
+# AvailablePin;168;U2.19
+# AvailablePin;58;C27.2
+# AvailablePin;8;R28.2
+# AvailablePin;162;U2.13
+# AvailablePin;161;U2.12
+# AvailablePin;160;U2.11
+# AvailablePin;159;U2.10
+# AvailablePin;30;R18.2
+# AvailablePin;7;R28.1
+# AvailablePin;164;U2.15
+# AvailablePin;29;R18.1
+# AvailablePin;311;U6.4
+# AvailablePin;104;C29.2
+# AvailablePin;103;C29.1
+# AvailablePin;86;C14.2
+# AvailablePin;85;C14.1
+# AvailablePin;170;U2.21
+# AvailablePin;304;U5.2
+# AvailablePin;89;C16.1
+# AvailablePin;229;JP4.3
+# AvailablePin;90;C16.2
+# AvailablePin;211;D5.2
+# AvailablePin;227;JP4.1
+# AvailablePin;314;U7.2
+# AvailablePin;132;SW2.2
+# AvailablePin;222;D1.1
+# AvailablePin;277;J4.6
+# AvailablePin;78;C5.2
+# AvailablePin;240;J5.3
+# AvailablePin;77;C5.1
+# AvailablePin;62;R6.2
+# AvailablePin;46;C21.2
+# AvailablePin;45;C21.1
+# AvailablePin;61;R6.1
+# AvailablePin;59;R5.1
+# AvailablePin;47;C22.1
+# AvailablePin;48;C22.2
+# AvailablePin;60;R5.2
+# AvailablePin;272;J4.1
+# AvailablePin;273;J4.2
+# AvailablePin;270;J3.7
+# AvailablePin;116;C2.2
+# AvailablePin;52;C9.2
+# AvailablePin;210;D5.1
+# AvailablePin;51;C9.1
+# AvailablePin;202;U1.21
+# AvailablePin;316;U7.4
+# AvailablePin;298;U4.1
+# AvailablePin;49;C34.1
+# AvailablePin;120;R3.2
+# AvailablePin;119;R3.1
+# AvailablePin;50;C34.2
+# AvailablePin;84;C11.2
+# AvailablePin;232;JP3.3
+# AvailablePin;300;U4.3
+# AvailablePin;83;C11.1
+# AvailablePin;302;U4.5
+# AvailablePin;262;J1.7
+# AvailablePin;145;J7.11
+# AvailablePin;144;J7.10
+# AvailablePin;306;U5.4
+# AvailablePin;307;U5.5
+# AvailablePin;266;J3.3
+# AvailablePin;195;U1.14
+# AvailablePin;158;U2.9
+# AvailablePin;157;U2.8
+# AvailablePin;156;U2.7
+# AvailablePin;155;U2.6
+# AvailablePin;154;U2.5
+# AvailablePin;153;U2.4
+# AvailablePin;152;U2.3
+# AvailablePin;151;U2.2
+# AvailablePin;150;U2.1
+# AvailablePin;289;FB2.2
+# AvailablePin;269;J3.6
+# AvailablePin;224;JP1.1
+# AvailablePin;257;J1.2
+# AvailablePin;199;U1.18
+# AvailablePin;295;D3.2
+# AvailablePin;226;JP1.3
+# AvailablePin;73;R1.1
+# AvailablePin;99;C26.1
+# AvailablePin;100;C26.2
+# AvailablePin;74;R1.2
+# AvailablePin;125;R22.1
+# AvailablePin;41;C13.1
+# AvailablePin;42;C13.2
+# AvailablePin;126;R22.2
+# AvailablePin;288;FB2.1
+# AvailablePin;179;U2.30
+# AvailablePin;238;J5.1
+# AvailablePin;268;J3.5
+# AvailablePin;228;JP4.2
+# AvailablePin;149;Y2.2
+# AvailablePin;110;C32.2
+# AvailablePin;109;C32.1
+# AvailablePin;181;U2.32
+# AvailablePin;88;C15.2
+# AvailablePin;122;R15.2
+# AvailablePin;121;R15.1
+# AvailablePin;87;C15.1
+# AvailablePin;23;J8.1
+# AvailablePin;134;SW2.4
+# AvailablePin;133;SW2.3
+# AvailablePin;70;R24.2
+# AvailablePin;69;R24.1
+# AvailablePin;296;D4.1
+# AvailablePin;102;C28.2
+# AvailablePin;9;R9.1
+# AvailablePin;101;C28.1
+# AvailablePin;123;R17.1
+# AvailablePin;91;C17.1
+# AvailablePin;92;C17.2
+# AvailablePin;124;R17.2
+# AvailablePin;94;C20.2
+# AvailablePin;64;R7.2
+# AvailablePin;63;R7.1
+# AvailablePin;93;C20.1
+# AvailablePin;3;R26.1
+# AvailablePin;146;Y1.1
+# AvailablePin;147;Y1.2
+# AvailablePin;4;R26.2
+# AvailablePin;10;R9.2
+# AvailablePin;76;C4.2
+# AvailablePin;75;C4.1
+# AvailablePin;82;C8.2
+# AvailablePin;81;C8.1
+# AvailablePin;142;J7.8
+# AvailablePin;276;J4.5
+# AvailablePin;137;J7.3
+# AvailablePin;136;J7.2
+# AvailablePin;135;J7.1
+# AvailablePin;141;J7.7
+# AvailablePin;140;J7.6
+# AvailablePin;139;J7.5
+# AvailablePin;138;J7.4
+# AvailablePin;239;J5.2
+# AvailablePin;143;J7.9
+# AvailablePin;208;U1.27
+# AvailablePin;65;R13.1
+# AvailablePin;66;R13.2
+# AvailablePin;313;U7.1
+# AvailablePin;310;U6.3
+# AvailablePin;309;U6.2
+# AvailablePin;308;U6.1
+# AvailablePin;274;J4.3
+# AvailablePin;265;J3.2
+# AvailablePin;312;U6.5
+# AvailablePin;244;J6.1
+# AvailablePin;242;J5.5
+# AvailablePin;243;J5.6
+# AvailablePin;34;R20.2
+# AvailablePin;33;R20.1
+# AvailablePin;204;U1.23
+# AvailablePin;166;U2.17
+# AvailablePin;290;FB3.1
+# AvailablePin;282;MH3.1
+# AvailablePin;250;J2.1
+# AvailablePin;297;D4.2
+# AvailablePin;79;C6.1
+# AvailablePin;264;J3.1
+# AvailablePin;294;D3.1
+# AvailablePin;67;R23.1
+# AvailablePin;68;R23.2
+# AvailablePin;241;J5.4
+# AvailablePin;28;R14.2
+# AvailablePin;267;J3.4
+# AvailablePin;27;R14.1
+# AvailablePin;292;D2.1
+# AvailablePin;213;D6.2
+# AvailablePin;80;C6.2
+# AvailablePin;112;C33.2
+# AvailablePin;111;C33.1
+# AvailablePin;11;R16.1
+# AvailablePin;12;R16.2
+# AvailablePin;285;MH4.1
+# AvailablePin;24;J9.1
+# AvailablePin;131;SW2.1
+# AvailablePin;107;C31.1
+# AvailablePin;108;C31.2
+# AvailablePin;186;U1.5
+# AvailablePin;105;C30.1
+# AvailablePin;317;U7.5
+# AvailablePin;14;R10.2
+# AvailablePin;278;J4.7
+# AvailablePin;260;J1.5
+# AvailablePin;13;R10.1
+# AvailablePin;72;R25.2
+# AvailablePin;98;C24.2
+# AvailablePin;148;Y2.1
+# AvailablePin;71;R25.1
+# AvailablePin;283;MH2.1
+# AvailablePin;315;U7.3
+# AvailablePin;225;JP1.2
+# AvailablePin;106;C30.2
+# AvailablePin;251;J2.2
+# AvailablePin;252;J2.3
+# AvailablePin;97;C24.1
+# AvailablePin;255;J2.6
+# AvailablePin;291;FB3.2
+# AvailablePin;253;J2.4
+# AvailablePin;254;J2.5
+# AvailablePin;231;JP3.2
+# AvailablePin;167;U2.18
+# AvailablePin;201;U1.20
+# AvailablePin;235;JP2.2
+# AvailablePin;198;U1.17
+# AvailablePin;249;J6.6
+# AvailablePin;279;J4.8
+# AvailablePin;207;U1.26
+# AvailablePin;17;R12.1
+# AvailablePin;18;R12.2
+# AvailablePin;16;R11.2
+# AvailablePin;5;R27.1
+# AvailablePin;6;R27.2
+# AvailablePin;129;SW1.3
+# AvailablePin;130;SW1.4
+# AvailablePin;15;R11.1
+# AvailablePin;171;U2.22
+# AvailablePin;301;U4.4
+# AvailablePin;287;FB1.2
+# AvailablePin;248;J6.5
+# AvailablePin;233;JP3.4
+# AvailablePin;271;J3.8
+# AvailablePin;275;J4.4
+# AvailablePin;299;U4.2
+# AvailablePin;245;J6.2
+# AvailablePin;234;JP2.1
+# AvailablePin;218;FID1.1
+# AvailablePin;36;R21.2
+# AvailablePin;223;D1.2
+# AvailablePin;214;Z1.1
+# AvailablePin;35;R21.1
+# AvailablePin;193;U1.12
+# AvailablePin;194;U1.13
+# AvailablePin;191;U1.10
+# AvailablePin;192;U1.11
+# AvailablePin;197;U1.16
+# AvailablePin;22;L1.2
+# AvailablePin;21;L1.1
+# AvailablePin;196;U1.15
+# AvailablePin;32;R19.2
+# AvailablePin;31;R19.1
+# AvailablePin;200;U1.19
+# AvailablePin;172;U2.23
+# AvailablePin;115;C2.1
+# AvailablePin;165;U2.16
+# AvailablePin;220;FID3.1
+# AvailablePin;206;U1.25
+# AvailablePin;230;JP3.1
+# AvailablePin;163;U2.14
+# AvailablePin;284;MH1.1
+# AvailablePin;303;U5.1
+# AvailablePin;44;C19.2
+# AvailablePin;318;U3.1
+# AvailablePin;43;C19.1
+# AvailablePin;322;U3.5
+# AvailablePin;205;U1.24
+# AvailablePin;212;D6.1
+# AvailablePin;169;U2.20
+# AvailablePin;305;U5.3
+# AvailablePin;256;J1.1
+# AvailablePin;293;D2.2
+# AvailablePin;246;J6.3
+# AvailablePin;281;J4.10
+# AvailablePin;127;SW1.1
+# AvailablePin;217;Z2.2
+# AvailablePin;1;R8.1
+# AvailablePin;2;R8.2
+# AvailablePin;203;U1.22
+# AvailablePin;280;J4.9
+# AvailablePin;128;SW1.2
+# AvailablePin;323;U3.6
+# Available Instance Pins
+# AvailableInstancePin;401;FID3
+# AvailableInstancePin;400;FID2
+# AvailableInstancePin;399;FID1
+# AvailableInstancePin;402;FID4
+# AvailableInstancePin;349;C34
+# AvailableInstancePin;378;C31
+# AvailableInstancePin;377;C30
+# AvailableInstancePin;380;C33
+# AvailableInstancePin;379;C32
+# AvailableInstancePin;359;R24
+# AvailableInstancePin;348;C22
+# AvailableInstancePin;372;C23
+# AvailableInstancePin;371;C20
+# AvailableInstancePin;356;R7
+# AvailableInstancePin;374;C26
+# AvailableInstancePin;361;R1
+# AvailableInstancePin;383;R2
+# AvailableInstancePin;384;R3
+# AvailableInstancePin;375;C28
+# AvailableInstancePin;376;C29
+# AvailableInstancePin;324;R8
+# AvailableInstancePin;328;R9
+# AvailableInstancePin;335;J8
+# AvailableInstancePin;336;J9
+# AvailableInstancePin;413;J4
+# AvailableInstancePin;408;J5
+# AvailableInstancePin;409;J6
+# AvailableInstancePin;390;J7
+# AvailableInstancePin;411;J1
+# AvailableInstancePin;410;J2
+# AvailableInstancePin;412;J3
+# AvailableInstancePin;398;Z2
+# AvailableInstancePin;425;U5
+# AvailableInstancePin;424;U4
+# AvailableInstancePin;427;U7
+# AvailableInstancePin;426;U6
+# AvailableInstancePin;394;U1
+# AvailableInstancePin;428;U3
+# AvailableInstancePin;393;U2
+# AvailableInstancePin;329;R16
+# AvailableInstancePin;386;R17
+# AvailableInstancePin;338;R14
+# AvailableInstancePin;385;R15
+# AvailableInstancePin;332;R12
+# AvailableInstancePin;357;R13
+# AvailableInstancePin;330;R10
+# AvailableInstancePin;331;R11
+# AvailableInstancePin;339;R18
+# AvailableInstancePin;340;R19
+# AvailableInstancePin;417;MH4
+# AvailableInstancePin;415;MH2
+# AvailableInstancePin;397;Z1
+# AvailableInstancePin;353;C27
+# AvailableInstancePin;416;MH1
+# AvailableInstancePin;341;R20
+# AvailableInstancePin;420;FB3
+# AvailableInstancePin;419;FB2
+# AvailableInstancePin;418;FB1
+# AvailableInstancePin;350;C9
+# AvailableInstancePin;365;C8
+# AvailableInstancePin;343;C3
+# AvailableInstancePin;382;C2
+# AvailableInstancePin;381;C1
+# AvailableInstancePin;333;C7
+# AvailableInstancePin;364;C6
+# AvailableInstancePin;363;C5
+# AvailableInstancePin;362;C4
+# AvailableInstancePin;414;MH3
+# AvailableInstancePin;388;SW1
+# AvailableInstancePin;337;R4
+# AvailableInstancePin;354;R5
+# AvailableInstancePin;355;R6
+# AvailableInstancePin;345;C13
+# AvailableInstancePin;346;C19
+# AvailableInstancePin;347;C21
+# AvailableInstancePin;404;JP1
+# AvailableInstancePin;344;C12
+# AvailableInstancePin;366;C11
+# AvailableInstancePin;351;C10
+# AvailableInstancePin;370;C17
+# AvailableInstancePin;369;C16
+# AvailableInstancePin;368;C15
+# AvailableInstancePin;367;C14
+# AvailableInstancePin;407;JP2
+# AvailableInstancePin;373;C24
+# AvailableInstancePin;352;C25
+# AvailableInstancePin;405;JP4
+# AvailableInstancePin;389;SW2
+# AvailableInstancePin;396;D6
+# AvailableInstancePin;326;R27
+# AvailableInstancePin;334;L1
+# AvailableInstancePin;423;D4
+# AvailableInstancePin;392;Y2
+# AvailableInstancePin;421;D2
+# AvailableInstancePin;406;JP3
+# AvailableInstancePin;422;D3
+# AvailableInstancePin;327;R28
+# AvailableInstancePin;391;Y1
+# AvailableInstancePin;325;R26
+# AvailableInstancePin;360;R25
+# AvailableInstancePin;395;D5
+# AvailableInstancePin;358;R23
+# AvailableInstancePin;387;R22
+# AvailableInstancePin;342;R21
+# AvailableInstancePin;403;D1
+# Used Pins
+# UsedPin;143;J7.9
+# UsedPin;142;J7.8
+# UsedPin;135;J7.1
+# UsedPin;141;J7.7
+# UsedPin;140;J7.6
+# UsedPin;139;J7.5
+# UsedPin;201;U1.20
+# UsedPin;145;J7.11
+# UsedPin;144;J7.10
+# UsedPin;5;R27.1
+# UsedPin;6;R27.2
+# UsedPin;189;U1.8
+# UsedPin;188;U1.7
+# UsedPin;290;FB3.1
+# UsedPin;291;FB3.2
+# UsedPin;22;L1.2
+# UsedPin;21;L1.1
+# UsedPin;288;FB2.1
+# UsedPin;289;FB2.2
+# UsedPin;203;U1.22
+# UsedPin;239;J5.2
+# UsedPin;243;J5.6
+Electric 1:
+  name: +5V_USB_J7
+  port: 1
+  pluspin: 135 pwr R=0 name=J7.1
+  minpin: 139 gnd R=0 name=J7.5
+  minpin: 140 gnd R=0 name=J7.6
+  minpin: 141 gnd R=0 name=J7.7
+  minpin: 142 gnd R=0 name=J7.8
+  minpin: 143 gnd R=0 name=J7.9
+  minpin: 144 gnd R=0 name=J7.10
+  minpin: 145 gnd R=0 name=J7.11
+  load: short
+  source: voltage V=1.500000
+Electric 2:
+  name: +5V_3V3_328P_AVCC_U1
+  port: 2
+  pluspin: 201 pwr R=0 name=U1.20
+  minpin: 189 gnd R=0 name=U1.8
+  minpin: 203 gnd R=0 name=U1.22
+  load: resistor R=1000000.000000
+  source: current I=-0.100000
+Electric 3:
+  name: +5V_3V3_328P_VCC_U1
+  port: 3
+  pluspin: 188 pwr R=0 name=U1.7
+  minpin: 189 gnd R=0 name=U1.8
+  minpin: 203 gnd R=0 name=U1.22
+  load: resistor R=1000000.000000
+  source: current I=-0.100000
+Electric 4:
+  name: +5V_3V3_J5
+  port: 4
+  pluspin: 239 pwr R=0 name=J5.2
+  minpin: 243 gnd R=0 name=J5.6
+  load: resistor R=1000000.000000
+  source: current I=-3.000000
+Electric 5:
+  name: L1
+  port: 5
+  pluspin: 21 pwr R=0 name=L1.1
+  minpin: 22 pwr R=0 name=L1.2
+  load: resistor R=0.000000
+Electric 6:
+  name: R27
+  port: 6
+  pluspin: 5 pwr R=0 name=R27.1
+  minpin: 6 pwr R=0 name=R27.2
+  load: resistor R=0.000000
+Electric 7:
+  name: FB2
+  port: 7
+  pluspin: 288 pwr R=0 name=FB2.1
+  minpin: 289 pwr R=0 name=FB2.2
+  load: resistor R=0.000000
+Electric 8:
+  name: FB3
+  port: 8
+  pluspin: 290 pwr R=0 name=FB3.1
+  minpin: 291 pwr R=0 name=FB3.2
+  load: resistor R=0.000000

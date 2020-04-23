@@ -1,0 +1,5 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE 28Pins_lib 28Pins_lib
+ASSIGN 28Pins_lib libMode shared
+DEFINE 28Pins_Project_V1I1_PCB_lib 28Pins_Project_V1I1_PCB_lib
+ASSIGN 28Pins_Project_V1I1_PCB_lib libMode shared

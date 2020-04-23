@@ -1,0 +1,112 @@
+Geometry file version 3.20
+
+mesh_defined
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0 0 0
+0
+begin_<materials> 
+begin_<electricfreespace> ElectricFreeSpace
+material_number 0
+conductivity 0
+permittivity 1
+density 0
+end_<electricfreespace>
+begin_<electricperfectconductor> ElectricPerfectConductor
+material_number 1
+end_<electricperfectconductor>
+begin_<electric_djordjevic> FR_4
+material_number 2
+permittivity 4.6
+UseLossTangent 
+imaginaryPart 0.01
+evalFrequency 1e+09
+lowFrequency 1000
+highFrequency 1e+12
+density 0
+end_<electric_djordjevic>
+begin_<normal_electric> Copper
+material_number 3
+conductivity 5.87e+07
+uncorrected_conductivity 5.87e+07
+permittivity 1
+nominalTemperature 298.15
+conductivityLinearTempCoef 0.00386
+conductivityQuadraticTempCoef 0
+density 0
+begin_<TemperatureRiseMaterialParameters> 
+heat_capacity 0
+thermal_conductivity 428.784
+perfusion_rate 0
+metabolic_heat 0
+end_<TemperatureRiseMaterialParameters>
+end_<normal_electric>
+begin_<magneticfreespace> MagneticFreeSpace
+material_number 0
+conductivity 0
+permeability 1
+density 0
+end_<magneticfreespace>
+begin_<magneticperfectconductor> MagneticPerfectConductor
+material_number 1
+end_<magneticperfectconductor>
+end_<materials>
+begin_<materialMaps> 
+begin_<materialMap> FreeSpace
+materialNumber 0
+xElectricMaterial 0
+yElectricMaterial 0
+zElectricMaterial 0
+xMagneticMaterial 0
+yMagneticMaterial 0
+zMagneticMaterial 0
+end_<materialMap>
+begin_<materialMap> PEC
+materialNumber 1
+xElectricMaterial 1
+yElectricMaterial 1
+zElectricMaterial 1
+xMagneticMaterial 0
+yMagneticMaterial 0
+zMagneticMaterial 0
+end_<materialMap>
+begin_<materialMap> FR_4
+materialNumber 2
+xElectricMaterial 2
+yElectricMaterial 2
+zElectricMaterial 2
+xMagneticMaterial 0
+yMagneticMaterial 0
+zMagneticMaterial 0
+end_<materialMap>
+begin_<materialMap> Copper
+materialNumber 3
+xElectricMaterial 3
+yElectricMaterial 3
+zElectricMaterial 3
+xMagneticMaterial 0
+yMagneticMaterial 0
+zMagneticMaterial 0
+end_<materialMap>
+end_<materialMaps>
+begin_<GridDefinition> 
+GridOriginInMeters -0.097735 -0.097735 -0.0985246
+NumberOfCellsInX 10
+NumberOfCellsInY 10
+NumberOfCellsInZ 10
+end_<GridDefinition>
+begin_<Deltas> 
+begin_<DelX> 
+0 0.03283
+end_<DelX>
+begin_<DelY> 
+0 0.0325478
+end_<DelY>
+begin_<DelZ> 
+0 0.0220721
+end_<DelZ>
+end_<Deltas>
+begin_<AveragedMaterialBins> 
+end_<AveragedMaterialBins>

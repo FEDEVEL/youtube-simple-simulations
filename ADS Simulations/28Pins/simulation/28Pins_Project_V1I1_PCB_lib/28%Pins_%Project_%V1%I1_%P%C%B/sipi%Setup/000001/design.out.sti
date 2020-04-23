@@ -1,0 +1,67 @@
+StiFile 1
+# File generated on Wed Apr 22 13:37:12 2020
+
+Electric 1:
+  name: +5V_USB_J7
+  voltage: 4.99994
+  current: -3.20001
+  pluspin: 135  voltage: 4.99994  current: -3.20001  name: J7.1
+  minpin: 139  voltage: 1.14666e-06  current: 0.114666  name: J7.5
+  minpin: 140  voltage: 6.34655e-09  current: 0.000634655  name: J7.6
+  minpin: 141  voltage: 2.21514e-05  current: 2.21514  name: J7.7
+  minpin: 142  voltage: 3.55651e-08  current: 0.00355651  name: J7.8
+  minpin: 143  voltage: 6.83628e-06  current: 0.683628  name: J7.9
+  minpin: 144  voltage: 1.88588e-07  current: 0.0188588  name: J7.10
+  minpin: 145  voltage: 1.63529e-06  current: 0.163529  name: J7.11
+
+Electric 2:
+  name: +5V_3V3_328P_AVCC_U1
+  voltage: 4.93533
+  current: 0.100005
+  pluspin: 201  voltage: 4.93969  current: 0.100005  name: U1.20
+  minpin: 189  voltage: 0.00435621  current: -0.0323704  name: U1.8
+  minpin: 203  voltage: 0.00435586  current: -0.0676346  name: U1.22
+
+Electric 3:
+  name: +5V_3V3_328P_VCC_U1
+  voltage: 4.93477
+  current: 0.100005
+  pluspin: 188  voltage: 4.93912  current: 0.100005  name: U1.7
+  minpin: 189  voltage: 0.00435621  current: -0.0323704  name: U1.8
+  minpin: 203  voltage: 0.00435586  current: -0.0676346  name: U1.22
+
+Electric 4:
+  name: +5V_3V3_J5
+  voltage: 4.88777
+  current: 3
+  pluspin: 239  voltage: 4.90714  current: 3  name: J5.2
+  minpin: 243  voltage: 0.0193688  current: -3  name: J5.6
+
+Electric 5:
+  name: L1
+  voltage: 9.60004e-05
+  current: 3.20001
+  pluspin: 21  voltage: 4.98442  current: 3.20001  name: L1.1
+  minpin: 22  voltage: 4.98432  current: -3.20001  name: L1.2
+
+Electric 6:
+  name: R27
+  voltage: -9.60004e-05
+  current: -3.20001
+  pluspin: 5  voltage: 4.94235  current: -3.20001  name: R27.1
+  minpin: 6  voltage: 4.94245  current: 3.20001  name: R27.2
+
+Electric 7:
+  name: FB2
+  voltage: 3.00015e-06
+  current: 0.100005
+  pluspin: 288  voltage: 4.93982  current: 0.100005  name: FB2.1
+  minpin: 289  voltage: 4.93981  current: -0.100005  name: FB2.2
+
+Electric 8:
+  name: FB3
+  voltage: 3.00015e-06
+  current: 0.100005
+  pluspin: 290  voltage: 4.93984  current: 0.100005  name: FB3.1
+  minpin: 291  voltage: 4.93984  current: -0.100005  name: FB3.2
+
